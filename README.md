@@ -1,8 +1,12 @@
-# 🧱 Alvenaria Calculator
+# 🧱 Masonry Calculator
 
-🇺🇸 English | [🇧🇷 Português](README.pt-BR.md)
+[🇧🇷 Português](README.pt-BR.md) | 🇺🇸 English
 
-Python application for masonry material calculations.
+A Python application designed to assist in masonry material calculations, combining construction knowledge with software development.
+
+<p align="center">
+  <img src="assets/exemplo.png" width="700">
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -12,28 +16,31 @@ Python application for masonry material calculations.
 
 ## 📋 Overview
 
-This project calculates the amount of materials required for masonry construction, helping estimate blocks, mortar, and related quantities.
+This project calculates the amount of materials required for masonry execution, helping estimate blocks, mortar, and other related construction supplies.
 
 ---
 
 ## 🎯 Objective
 
-Develop a Python-based tool to automate masonry material calculations, providing fast and reliable estimates for students, civil engineering professionals, architects, and developers interested in applying programming to real-world construction and engineering challenges.
+Automate masonry material calculations using Python, providing fast and reliable estimates to support students, construction professionals, and developers interested in applying programming to solve real-world engineering problems.
 
 ---
 
 ## ✨ Features
 
 - Calculate wall area
-- Estimate the number of blocks
+- Estimate the number of blocks required
 - Estimate mortar consumption
-- Simple command-line interface
+- Simple terminal interface
 
 ---
 
 ## 🛠️ Technologies
 
-- Python
+- Python 3
+- Git and GitHub
+- Pytest (automated tests)
+- Structured programming
 
 ---
 
@@ -42,6 +49,7 @@ Develop a Python-based tool to automate masonry material calculations, providing
 ```text
 alvenaria/
 ├── README.md
+├── README.pt-BR.md
 ├── LICENSE
 ├── requirements.txt
 ├── src/
@@ -60,12 +68,37 @@ python src/alvenaria.py
 
 ---
 
+## 📌 Usage Example
+
+Input:
+
+```text
+Wall height: 3
+Wall width: 5
+```
+
+Output:
+
+```text
+Wall area: 15 m²
+Estimated number of blocks: ...
+Estimated mortar consumption: ...
+```
+
+---
+
+## 🏗️ Project Context
+
+This project represents the practical application of programming knowledge to a real construction problem, combining experience in Architecture and Urbanism with software development.
+
+---
+
 ## 🚀 Future Improvements
 
 - Graphical user interface (GUI)
 - Export results to Excel
 - Web version
-- Unit tests
+- Automated tests
 
 ---
 
@@ -73,7 +106,7 @@ python src/alvenaria.py
 
 **Vinícius Freire**
 
-- GitHub: https://github.com/vinicius-freire-oliveira
+- GitHub: [vinicius-freire-oliveira](https://github.com/vinicius-freire-oliveira)
 
 ---
 

@@ -2,7 +2,11 @@
 
 🇧🇷 Português | [🇺🇸 English](README.md)
 
-Aplicação desenvolvida em Python para cálculo de materiais utilizados em alvenaria.
+Aplicação desenvolvida em Python para auxiliar o cálculo de materiais de alvenaria, unindo conhecimentos de construção civil e desenvolvimento de software.
+
+<p align="center">
+  <img src="assets/exemplo.png" width="700">
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
@@ -18,7 +22,7 @@ Este projeto calcula a quantidade de materiais necessários para a execução de
 
 ## 🎯 Objetivo
 
-Automatizar o cálculo de materiais para alvenaria utilizando Python, fornecendo estimativas rápidas e confiáveis para auxiliar estudantes, profissionais da construção civil e desenvolvedores interessados na aplicação da programação em problemas reais da engenharia.
+Automatizar o cálculo de materiais para alvenaria utilizando Python, fornecendo estimativas rápidas e confiáveis para auxiliar estudantes, profissionais da construção civil e desenvolvedores interessados em aplicar programação na solução de problemas reais da engenharia.
 
 ---
 
@@ -33,7 +37,10 @@ Automatizar o cálculo de materiais para alvenaria utilizando Python, fornecendo
 
 ## 🛠️ Tecnologias
 
-- Python
+- Python 3
+- Git e GitHub
+- Pytest (testes automatizados)
+- Programação estruturada
 
 ---
 
@@ -58,6 +65,30 @@ alvenaria/
 ```bash
 python src/alvenaria.py
 ```
+---
+
+## 📌 Exemplo de Uso
+
+Entrada:
+
+```text
+Altura da parede: 3
+Largura da parede: 5
+```
+
+Saída:
+
+```text
+Área da parede: 15 m²
+Quantidade estimada de blocos: ...
+Consumo estimado de argamassa: ...
+```
+
+---
+
+## 🏗️ Contexto do Projeto
+
+Este projeto representa a aplicação prática de conhecimentos de programação em um problema real da construção civil, combinando experiência em Arquitetura e Urbanismo com desenvolvimento de sistemas.
 
 ---
 
@@ -74,7 +105,7 @@ python src/alvenaria.py
 
 **Vinícius Freire**
 
-- GitHub: https://github.com/vinicius-freire-oliveira
+- GitHub: [vinicius-freire-oliveira](https://github.com/vinicius-freire-oliveira)
 
 ---
 
